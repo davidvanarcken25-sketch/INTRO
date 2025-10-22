@@ -3,7 +3,7 @@ from PIL import Image
 
 st.title(" el bendito!!")
 
-st.header("En este espacio comienzo a desarrollar mis aplicaciones para interfaces multimodales.")
+st.header("Surge en la escena del género urbano (reguetón, trap, fusiones), ligado a su ciudad natal y al barrio Antioquia de Medellín, lo cual ha sido parte importante de su identidad.")
 st.write("Facilmente puedo realizar backend y frontend.")
 image = Image.open('blessd.jpg')
 
