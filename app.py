@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
 
-st.title(" el bendito!!")
+st.title("BLESSD el bendito")
 
 st.header("Surge en la escena del género urbano (reguetón, trap, fusiones), ligado a su ciudad natal y al barrio Antioquia de Medellín, lo cual ha sido parte importante de su identidad.")
 st.write("Facilmente puedo realizar backend y frontend.")
