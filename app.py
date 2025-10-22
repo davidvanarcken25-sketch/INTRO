@@ -7,7 +7,7 @@ st.header("Surge en la escena del género urbano (reguetón, trap, fusiones)")
 st.write(" ligado a su ciudad natal y al barrio Antioquia de Medellín, lo cual ha sido parte importante de su identidad")
 image = Image.open('blessd.jpg')
 
-st.image(image, caption='Interfaces multimodales')
+st.image(image, caption='Si sabe')
 
 
 texto = st.text_input('Escribe algo', 'Este es mi texto')
