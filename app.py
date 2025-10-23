@@ -35,7 +35,4 @@ st.write("""
 - **Frase icónica:** *“Bendecido y afortunado, gracias a Dios y al barrio.”*
 """)
 
-# --- Pie de página ---
-st.markdown("---")
-st.write("Creado con ❤️ en Streamlit — Fanpage no oficial")
 
